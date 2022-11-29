@@ -67,3 +67,19 @@ input{
 img{
    height: 100vh;
 }
+#main{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+a{
+   text-decoration: none;
+   margin-top: 15px;
+   border: 3mm ridge rgba(211, 220, 50, .6);
+   width: 300px;
+   height: 40px;
+   background-color: #4ab354;
+   color: aliceblue;
+   
+}

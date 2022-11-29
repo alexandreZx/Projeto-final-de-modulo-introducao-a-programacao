@@ -28,6 +28,7 @@ body{
     border:#5f51fb 1px solid;
     color: white;
     border-radius: 0px 5px 5px 0px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
 }
 #tabela{
     width: 80vw;
@@ -53,6 +54,7 @@ body{
    border:#5f51fb 1px solid;
    border-radius: 5px;
    margin-top: 5px;
+   box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
 }
 #btn-editar{
    padding: 10px;
@@ -60,7 +62,7 @@ body{
    color:white;
    border:#5f51fb 1px solid;
    border-radius: 5px;
- 
+   box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
 }
  
 h1{
@@ -78,6 +80,7 @@ font-weight: 600;
     margin-top: 5px;
     position: absolute;
     right: 0px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
 }
 #tabelinha{
     display: flex;
